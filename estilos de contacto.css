@@ -1,0 +1,50 @@
+/*estilos de contactos777777777777777777777777777777*/
+
+
+
+#contactos{
+	margin-top: 60px;
+	color: #fff;
+	text-align: center;
+	width: 90%;
+
+}
+
+#contactos section{
+	padding: 5px 10px;
+}
+
+#contactos section p{
+
+	margin-left: 0;
+}
+
+#contactos section h2, #contactos section p {
+	margin-left: 30px;
+}
+
+#contactos aside{
+	text-align: center;
+	margin: 60px 0px 0px 30px;
+	width: 80%;
+
+}
+
+#contactos aside a{
+	background: #CE0FF0;
+	display: inline-block;
+	padding:10px;
+	font-size: 20px;
+}
+
+@media (min-width: 1440px){
+	#contactos h2{
+		font-size: 60px;
+	}
+	#contactos h3{
+		font-size: 50px;
+	}
+	#contactos p{
+		font-size: 30px;
+	}
+}
